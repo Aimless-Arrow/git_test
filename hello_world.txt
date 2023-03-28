@@ -1,1 +1,1 @@
-Hello world! This is my first txt file in my first git repo.
+Hello world! This is my first txt file in my first git repo. I have added another sentence.
